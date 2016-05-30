@@ -15,7 +15,7 @@ var kbValues = {
         '765': 'West Lafayette',
         '801': 'Northern Utah',
         '901': 'Memphis'
-    },
+    }
 };
     
 var currentDate = new Date();   // Create Date object. More about objects and

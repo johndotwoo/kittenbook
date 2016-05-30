@@ -15,7 +15,7 @@ var kbValues = {
         '765': 'West Lafayette',
         '801': 'Northern Utah',
         '901': 'Memphis'
-    },
+    }
 };
     
 var currentDate = new Date();   // Create Date object. More about objects and
@@ -36,7 +36,7 @@ var userName = prompt('Hello, what\'s your name?');
 
 // If no user name was entered, ask again.
 if (!userName) {
-    userName = prompt('You didn\'t enter a name. Really what\'s your name?');
+    userName = prompt('You didn\'t enter a name. Really, what\'s your name?');
 }
 
 // Get the user's phone number.
