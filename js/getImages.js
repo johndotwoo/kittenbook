@@ -1,4 +1,4 @@
 function getImages() {
-    var images = document.querySelectorAll('div.userContentWrapper img');
-    return images;    
+  var images = document.querySelectorAll('div.userContentWrapper img');
+  return images;
 }
